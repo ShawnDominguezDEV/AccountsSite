@@ -7,4 +7,4 @@ Based on user inputs, this object creates a User object to be stored into a MySQ
 
 The objective of this assignment was to learn how to utilize databases in our web applications.
 
-# Currently, this project does not contain a Script for the created MySQL schema or table. As a result, it will not run properly unless a database with the same name
+# Currently, this project does not contain a Script for the created MySQL schema or table. As a result, it will not run properly unless a database with the same name is stored on a users local device.
